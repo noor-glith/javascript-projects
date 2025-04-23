@@ -27,7 +27,6 @@ Getting Started
 4. Run the project (if applicable): npm start
 
 Contributing
-
 Contributions are welcome! Please submit a pull request with a clear description of the changes made.
 
 License
